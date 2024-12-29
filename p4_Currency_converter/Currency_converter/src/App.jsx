@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import Dropdown from "./components/dropdown";
+import Dropdown from "./components/Dropdown";
 
 function App() {
   const [currencies, setCurrencies] = useState([]);
